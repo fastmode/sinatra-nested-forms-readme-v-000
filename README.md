@@ -252,7 +252,7 @@ We need a way to display the objects back to the user (in this case the registra
 
 In this view, we use the instance variable `@student` and the reader methods `.name` and `.grade` to display the student's information.
 
-We then iterate over `@courses` to display the name and topic of each class.
+We then iterate over `@classes` to display the name and topic of each class.
 
 ## The Controller
 
